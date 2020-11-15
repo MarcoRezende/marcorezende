@@ -6,7 +6,7 @@
 [Portfólio](https://marcorezendebackup.github.io/portfolio/)
 
 ## Sobre Mim 😳
-Sou um desenvolvedor que desenvolve para internet e que aprende por meio dela. Programar para criar um novo projeto é algo que me deixa muito feliz, assim como saber que essa é minha profissão. [Aqui](https://marcorezendebackup.github.io/portfolio/) é possivel vizualizar alguns deles - *alguns* porque **ainda** não publiquei os demais que estou trabalhando 😐. No geral essas aplicações são de degree passados, mas as minhas criações se baseiam em coisas que eu gosto e consumo no meu dia-a-dia.
+Sou um desenvolvedor que cria para internet e que aprende por meio dela. Programar para desenvolver um novo projeto é algo que me deixa muito feliz, assim como saber que essa é minha profissão. [Aqui](https://marcorezendebackup.github.io/portfolio/) é possivel vizualizar alguns deles - *alguns* porque **ainda** não publiquei os demais que estou trabalhando 😐. No geral essas aplicações são de degree passados, mas as minhas criações se baseiam em coisas que eu gosto e consumo no meu dia-a-dia.
 
 Gosto de ler (livros, documentações ou blogs) e assistir a videos para me manter sempre atualizado 🧐.
 
