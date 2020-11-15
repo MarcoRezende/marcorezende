@@ -1,6 +1,8 @@
 ### Olá 👋
 *Aberto a novas oportunidades de emprego 😄*
+
 **Desenvolvedor web full stack**
+
 [Portfólio](https://marcorezendebackup.github.io/portfolio/)
 
 ## Sobre Mim 😳
@@ -9,9 +11,7 @@ Sou um desenvolvedor que cria para internet e que aprende por meio dela. Program
 Gosto de ler (livros, documentações ou blogs) e assistir a videos para me manter sempre atualizado 🧐.
 
 ## Me Contate
-Meu email 👉
-Telefone (fixo) 👉 (11) 4157-2960
-Celular 👉 (11) 94632-1887
+Meu email 👉 marcorezende@outlook.com.br | Telefone (fixo) 👉 (11) 4157-2960 | Celular 👉 (11) 94632-1887
 
 ## Formações
 Foquemos apenas nas quais interessam para minha área atual.
