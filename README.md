@@ -1,6 +1,4 @@
-### Olá 👋
-*Aberto a novas oportunidades de emprego 😄*
-
+## Sobre Mim 😳
 **Desenvolvedor web full stack**
 
 [Portfólio](https://marcorezendebackup.github.io/portfolio/)
@@ -20,7 +18,7 @@ Foquemos apenas nas quais interessam para minha área atual.
 Meu investimento na área começou nesta reconhecida plataforma do Vale do Silício, com dois nanodegrees. O primeiro, **[Fundamentos Web Front End](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)**, e o segundo **Web Front-End Avançado**.
 
 ### Udemy (2020)
-Atualmente busca a formação como full-stack, então [está](https://www.udemy.com/course/the-complete-web-development-bootcamp/) foi minha escolha.
+Full-stack com foco em **NodeJS**.
 
 <!--
 **MarcoRezende/marcorezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
