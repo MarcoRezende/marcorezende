@@ -9,7 +9,7 @@ Sou um desenvolvedor que cria para internet e que aprende por meio dela. Program
 Gosto de ler (livros, documentações ou blogs) e assistir a videos para me manter sempre atualizado 🧐.
 
 ## Me Contate 📞
-Meu email 👉 marcorezende@outlook.com.br | Telefone (fixo) 👉 (11) 4157-2960 | Celular 👉 (11) 94632-1887
+Meu email 👉 marcorezende@outlook.com.br <!--| Telefone (fixo) 👉 (11) 4157-2960 | Celular 👉 (11) 94632-1887-->
 
 ## Formações 🎓
 Foquemos apenas nas quais interessam para minha área atual.
@@ -17,7 +17,7 @@ Foquemos apenas nas quais interessam para minha área atual.
 ### Udacity (2018 - 2019)
 Meu investimento na área começou nesta reconhecida plataforma do Vale do Silício, com dois nanodegrees. O primeiro, **[Fundamentos Web Front End](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)**, e o segundo **Web Front-End Avançado**.
 
-### Udemy (2020)
+### Udemy (2020 - 2021)
 Full-stack com foco em **NodeJS**.
 
 <!--
